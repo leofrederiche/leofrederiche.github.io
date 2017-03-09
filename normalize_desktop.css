@@ -31,7 +31,7 @@ iframe{
 	font-size: 3em;
 	color: #34495e;
 	z-index: 10;
-	color: #ecf0f1;
+	color: #34495e;
 }
 
 nav{
@@ -118,7 +118,7 @@ nav a:hover{
 
 #home-section h1{
 	padding: 20px 10px;
-	text-shadow: 0 0 1px rgba(0,0,0,0.9);
+	text-shadow: 0 0 30px rgba(0,0,0,0.9);
 	color: #ecf0f1;
 	margin: 20px 0;
 	position: relative;
@@ -128,7 +128,7 @@ nav a:hover{
 	width: 60%;
 	margin: 0 auto;
 	font-family: 'Ubuntu', sans-serif;
-	color: #ecf0f1;
+	color: #34495e;
 	padding: 10px;
 	position: relative;
 	font-style: italic;
