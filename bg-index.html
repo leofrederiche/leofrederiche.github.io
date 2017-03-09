@@ -1,9 +1,9 @@
 <div class="container">
-	<div class="cable"></div>
 	<div class="mug">
 		<div class="coffe">
 			<small><i>This is<br>CSS</i></small>
 		</div>
+		<div class="cable"></div>
 	</div>
 
 	<div class="iphone">
@@ -31,7 +31,7 @@
 	.mug{
 		position: relative;
 		left: 60%;
-		top: 40%;
+		top: 50%;
 		width: 200px;
 		height: 200px;
 		border: 1px solid #7f8c8d;
@@ -47,10 +47,8 @@
 		box-shadow: 0 0 30px rgba(0,0,0,0.6);
 		background-color: #eee;
 		border-radius: 5px;
-		left: 55%;
-		top: 70%;
-		transform: rotateZ(-40deg);
-
+		transform: rotateZ(-55deg);
+		z-index: 0;
 	}
 
 	.coffe{
@@ -67,6 +65,7 @@
 		color: rgba(255,255,255,0.1);
 		font-family: 'Verdana';
 		font-weight: bold;
+		z-index: 10;
 	}
 
 	.coffe small{
@@ -107,5 +106,17 @@
 		position: relative;
 		box-shadow: 0 0 10px rgba(0,0,0,0.1) inset;
 		top: 17%;
+	}
+
+	@media screen and (min-width: 1000px){
+		.iphone{
+			left: -5%;
+			top: -30%;
+		}
+
+		.mug{
+			left: 70%;
+			top: 60%;
+		}
 	}
 </style>
