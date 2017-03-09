@@ -83,21 +83,20 @@ nav a:hover{
 .next-section i{
 	font-size: 5em;
 	position: relative;
-	top: 10vh;
 	color: #ecf0f1;
 }
 
 @keyframes pulse{
 	0%{
-		top: 20px;
+		top: 0px;
 	}
 
 	50%{
-		top: 45px;
+		top: 15px;
 	}
 
 	100%{
-		top: 20px;
+		top: 0px;
 	}
 }
 
@@ -122,7 +121,6 @@ nav a:hover{
 	color: #ecf0f1;
 	margin: 20px 0;
 	position: relative;
-	top: -75px;
 }
 
 #home-section .description{
@@ -180,11 +178,9 @@ nav a:hover{
 }
 
 .block{
-	/*background-color: rgba(255,255,255,0.1);*/
 	padding: 10px;
 	font-family: 'Ubuntu', sans-serif;
 	line-height: 1.3em;
-	font-size: 1.1em;
 }
 
 .block b{
@@ -200,7 +196,7 @@ nav a:hover{
 
 #projects-section h2{
 	position: relative;
-	top: -100px;
+	top: -8%;
 }
 
 .carousel-base{
