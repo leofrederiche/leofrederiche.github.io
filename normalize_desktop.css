@@ -29,7 +29,6 @@ iframe{
 	right: 10px;
 	float: right;
 	font-size: 3em;
-	color: #34495e;
 	z-index: 10;
 	color: #34495e;
 }
@@ -42,6 +41,7 @@ nav{
 	height: 100vh;
 	text-align: center;
 	background-color: #1abc9c;
+	background-color: #8e44ad;
 	color: #ecf0f1;
 	display: flex;
 	flex-direction: column;
@@ -73,7 +73,6 @@ nav a:hover{
 	margin: 0 auto;
 	border-radius: 100%;
 	top: 100px;
-
 	text-shadow: 0 0 30px rgba(0,0,0,0.9);
 	animation-name: pulse;
 	animation-duration: 1s;
@@ -100,6 +99,29 @@ nav a:hover{
 	}
 }
 
+.tooltip{
+	position: relative;
+	display: inline-block;
+}
+
+.tooltipText{
+	visibility: hidden;
+	background-color: rgba(236, 240, 241,0.5);
+	color: #2c3e50;
+	position: absolute;
+	text-align: center;
+	border-radius: 6px;
+	padding: 6px;
+	font-size: 11px;
+	font-family: 'Verdana';
+	font-weight: bold;
+	width: auto;
+	min-width: 100px;
+}
+
+.tooltip:hover .tooltiptext{
+	visibility: visible;
+}
 
 .section{
 	padding: 0px 5%;
@@ -118,7 +140,6 @@ nav a:hover{
 
 #home-section h1{
 	padding: 20px 10px;
-	text-shadow: 0 0 30px rgba(0,0,0,0.9);
 	color: #ecf0f1;
 	margin: 20px 0;
 	position: relative;
@@ -136,16 +157,18 @@ nav a:hover{
 	line-height: 1.3em;
 }
 
-.font-first{
-	color: #F44336;
+.title-fonte{
+	color: white;
+	text-shadow: 0px 0px rgba(0,0,0,0.5);
+	transition: 0.2s;
 }
 
-.font-second{
-	color: #27ae60;
+.title-fonte:hover{
+	text-shadow: 0px 5px rgba(0,0,0,0.5);
 }
 
-.font-third{
-	color: #f39c12;
+.title-name{
+	text-shadow: 0px 5px rgba(0,0,0,0.5);	
 }
 
 .font-four{
@@ -165,7 +188,7 @@ nav a:hover{
 }
 
 #about-section{
-	background-image: linear-gradient(to bottom, #8e44ad, #3498db);
+	background-image: linear-gradient(to bottom, #9b59b6, #3498db);
 	color: #ecf0f1;
 	text-align: center;
 }

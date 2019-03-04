@@ -135,16 +135,8 @@ nav a:hover{
 	line-height: 1.3em;
 }
 
-.font-first{
-	color: #F44336;
-}
-
-.font-second{
-	color: #27ae60;
-}
-
-.font-third{
-	color: #f39c12;
+.title-name{
+	text-shadow: 0px 5px rgba(0,0,0,0.5);	
 }
 
 .font-four{
