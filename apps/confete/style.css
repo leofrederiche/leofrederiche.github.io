@@ -1,0 +1,33 @@
+.btnSuccess{
+	position: relative;
+	top: 40vh;
+}
+
+.confetti{
+	position: absolute;
+	top: 95%;
+
+	width: 10px;
+	height: 10px;
+
+	border: 1px solid black;
+	border-radius: 20px;	
+
+	animation-name: ConfettiAnimation;
+	animation-duration: 4s;
+	animation-timing-function: ease-out;
+}
+
+@keyframes ConfettiAnimation{
+	0%{
+		top: 0%;
+		transform: rotate3d(0,0,0, 0deg);
+	};
+}
+
+.style0	{ transform: rotate3d(1,1,1, 650deg); background: #e74c3c; }
+.style1 { transform: rotate3d(1,1,1, 999deg); background: #e67e22; }
+.style2 { transform: rotate3d(1,0,1, 900deg); background: #9b59b6; } 
+.style3 { transform: rotate3d(0,1,1, 500deg); background: #3498db; }
+.style4 { transform: rotate3d(1,1,0, 700deg); background: #2ecc71; }
+.style5 { transform: rotate3d(1,1,0, 450deg); background: #ecf0f1; }
