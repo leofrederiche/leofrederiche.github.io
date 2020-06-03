@@ -1,0 +1,805 @@
+[
+	{
+		"name:": {
+			"en": "Afghanistan",
+			"br": "Afeganistão"
+		},
+		"nationality": {
+			"en": "Afghan",
+			"br": "Afegão"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Argentina",
+			"br": "Argentina"
+		},
+		"nationality": {
+			"en": "Argentinian",
+			"br": "Argentino"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Armenia",
+			"br": "Armênia"
+		},
+		"nationality": {
+			"en": "Armenian",
+			"br": "Armênio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Angola",
+			"br": "Angola"
+		},
+		"nationality": {
+			"en": "Angolan",
+			"br": "Angolano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Australia",
+			"br": "Austrália"
+		},
+		"nationality": {
+			"en": "Australian",
+			"br": "Australiano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Austria",
+			"br": "Áustria"
+		},
+		"nationality": {
+			"en": "Austrian",
+			"br": "Austríaco"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "The Bahamas",
+			"br": "Bahamas"
+		},
+		"nationality": {
+			"en": "Bahamian",
+			"br": "Bahamense"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Bangladesh",
+			"br": "Bangladesh"
+		},
+		"nationality": {
+			"en": "Bangladeshi",
+			"br": "Bangladês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Belgium",
+			"br": "Bélgica"
+		},
+		"nationality": {
+			"en": "Belgian",
+			"br": "Belga"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Bolivia",
+			"br": "Bolívia"
+		},
+		"nationality": {
+			"en": "Bolivian",
+			"br": "Boliviano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Bulgaria",
+			"br": "Bulgária"
+		},
+		"nationality": {
+			"en": "Bulgarian",
+			"br": "Búlgaro"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Brazil",
+			"br": "Brasil"
+		},
+		"nationality": {
+			"en": "Brazilian",
+			"br": "Brasileiro"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Cambodia",
+			"br": "Camboja"
+		},
+		"nationality": {
+			"en": "Cambodian",
+			"br": "Cambojano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Canada",
+			"br": "Canadá"
+		},
+		"nationality": {
+			"en": "Canadian",
+			"br": "Canadense"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Central African Republic",
+			"br": "República Centro-Africana"
+		},
+		"nationality": {
+			"en": "Central-African",
+			"br": "Centro-africano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "China",
+			"br": "China"
+		},
+		"nationality": {
+			"en": "Chinese",
+			"br": "Chinês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Chile",
+			"br": "Chile"
+		},
+		"nationality": {
+			"en": "Chilean",
+			"br": "Chileno"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Colombia",
+			"br": "Colômbia"
+		},
+		"nationality": {
+			"en": "Colombian",
+			"br": "Colombiano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Cuba",
+			"br": "Cuba"
+		},
+		"nationality": {
+			"en": "Cuban",
+			"br": "Cubano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Croatia",
+			"br": "Croácia"
+		},
+		"nationality": {
+			"en": "Croatian",
+			"br": "Croata"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Denmark",
+			"br": "Dinamarca"
+		},
+		"nationality": {
+			"en": "Danish",
+			"br": "Dinamarquês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Egypt",
+			"br": "Egito"
+		},
+		"nationality": {
+			"en": "Egyptian",
+			"br": "Egípcio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "England",
+			"br": "Inglaterra"
+		},
+		"nationality": {
+			"en": "English",
+			"br": "Inglês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Ecuador",
+			"br": "Equador"
+		},
+		"nationality": {
+			"en": "Ecuadorian",
+			"br": "Equatoriano"
+		}
+	},
+
+	{
+		"name": {
+			"en": "Estonia",
+			"br": "Estônia"
+		},
+		"nationality": {
+			"en": "Estonian",
+			"br": "Estoniano"
+		}
+	},
+
+
+	{
+		"name:": {
+			"en": "Finland",
+			"br": "Finlândia"
+		},
+		"nationality": {
+			"en": "Finnish",
+			"br": "Finlandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "France",
+			"br": "França"
+		},
+		"nationality": {
+			"en": "French",
+			"br": "Francês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Greece",
+			"br": "Grécia"
+		},
+		"nationality": {
+			"en": "Greek",
+			"br": "Grego"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Germany",
+			"br": "Alemanha"
+		},
+		"nationality": {
+			"en": "German",
+			"br": "Alemão"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Holland",
+			"br": "Holanda"
+		},
+		"nationality": {
+			"en": "Dutch",
+			"br": "Holandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Haiti",
+			"br": "Haiti"
+		},
+		"nationality": {
+			"en": "Haitian",
+			"br": "Haitiano"
+		}
+	},
+
+	{
+		"name:": 
+			"en": "Honduras",
+			"br": "Honduras"
+		},
+		"nationality": {
+			"en": "Honduran",
+			"br": "Hondurenho"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Hungary",
+			"br": "Hungria"
+		},
+		"nationality": {
+			"en": "Hungarian",
+			"br": "Húngaro"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Ireland",
+			"br": "Irlanda"
+		},
+		"nationality": {
+			"en": "Irish",
+			"br": "Irlandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Iceland",
+			"br": "Islândia"
+		},
+		"nationality": {
+			"en": "Icelander",
+			"br": "Islandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Italy",
+			"br": "Itália"
+		},
+		"nationality": {
+			"en": "Italian",
+			"br": "Italiano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Indonesia",
+			"br": "Indonésia"
+		},
+		"nationality": {
+			"en": "Indonesian",
+			"br": "Indonésio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Japan",
+			"br": "Japão"
+		},
+		"nationality": {
+			"en": "Japanese",
+			"br": "Japonês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Jamaica",
+			"br": "Jamaica"
+		},
+		"nationality": {
+			"en": "Jamaican",
+			"br": "Jamaicano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Jordan",
+			"br": "Jordânia"
+		},
+		"nationality": {
+			"en": "Jordanian",
+			"br": "Jordaniano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Kuwait",
+			"br": "Kuwait"
+		},
+		"nationality": {
+			"en": "Kuwaiti",
+			"br": "Kuwaitiano"
+		}
+	},
+
+	{
+		"name": {
+			"en": "Liberia",
+			"br": "Libéria"
+		},
+		"nationality": {
+			"en": "Liberian",
+			"br": "Liberiano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Luxembourg",
+			"br": "Luxemburgo"
+		},
+		"nationality": {
+			"en": "Luxembourgish",
+			"br": "Luxemburguês"
+		}
+	},
+
+	{
+		"name": {
+			"en": "Lybia",
+			"br": "Líbia"
+		},
+		"nationality": {
+			"en": "Lybian",
+			"br": "Líbio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Macedonia",
+			"br": "Macedônia"
+		},
+		"nationality": {
+			"en": "Macedonian",
+			"br": "Macedônio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Madagascar",
+			"br": "Madagascar"
+		},
+		"nationality": {
+			"en": "Malagasy",
+			"br": "Madagascarense"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Malaysia",
+			"br": "Malásia"
+		},
+		"nationality": {
+			"en": "Malaysian",
+			"br": "Malaio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Mexico",
+			"br": "México"
+		},
+		"nationality": {
+			"en": "Mexican",
+			"br": "Mexicano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Norway",
+			"br": "Noruega"
+		},
+		"nationality": {
+			"en": "Norwegian",
+			"br": "Norueguês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "New Zealand",
+			"br": "Nova Zelândia"
+		},
+		"nationality": {
+			"en": "New Zealander",
+			"br": "Neozelandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "North Korea",
+			"br": "Coreia do Norte"
+		},
+		"nationality": {
+			"en": "North Korean",
+			"br": "Norte-coreano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Palestine",
+			"br": "Palestina"
+		},
+		"nationality": {
+			"en": "Palestinian",
+			"br": "Palestino"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Paraguay",
+			"br": "Paraguai"
+		},
+		"nationality": {
+			"en": "Paraguayan",
+			"br": "Paraguaio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Poland",
+			"br": "Polônia"
+		},
+		"nationality": {
+			"en": "Polish",
+			"br": "Polonês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Peru",
+			"br": "Peru"
+		},
+		"nationality": {
+			"en": "Peruvian",
+			"br": "Peruano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Portugal",
+			"br": "Portugal"
+		},
+		"nationality": {
+			"en": "Portuguese",
+			"br": "Português"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Russia",
+			"br": "Rússia"
+		},
+		"nationality": {
+			"en": "Russian",
+			"br": "Russo"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "South Africa",
+			"br": "África do Sul"
+		},
+		"nationality": {
+			"en": "South African",
+			"br": "Sul-africano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "South Korea",
+			"br": "Coreia do Sul"
+		},
+		"nationality": {
+			"en": "South Korean",
+			"br": "Sul-coreano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Scotland",
+			"br": "Escócia"
+		},
+		"nationality": {
+			"en": "Scottish",
+			"br": "Escocês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Spain",
+			"br": "Espanha"
+		},
+		"nationality": {
+			"en": "Spanish",
+			"br": "Espanhol"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Sweden",
+			"br": "Suécia"
+		},
+		"nationality": {
+			"en": "Swedish",
+			"br": "Sueco"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Switzerland",
+			"br": "Suíça"
+		},
+		"nationality": {
+			"en": "Swiss",
+			"br": "Suíço"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Thailand",
+			"br": "Tailândia"
+		},
+		"nationality": {
+			"en": "Thai",
+			"br": "Tailandês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "United States",
+			"br": "Estados Unidos"
+		},
+		"nationality": {
+			"en": "American",
+			"br": "Americano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Ukraine",
+			"br": "Ucrânia"
+		},
+		"nationality": {
+			"en": "Ukrainian",
+			"br": "Ucraniano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Uruguay",
+			"br": "Uruguai"
+		},
+		"nationality": {
+			"en": "Uruguayan",
+			"br": "Uruguaio"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "United Kingdom",
+			"br": "Reino Unido"
+		},
+		"nationality": {
+			"en": "British",
+			"br": "Britânico"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Venezuela",
+			"br": "Venezuela"
+		},
+		"nationality": {
+			"en": "Venezuelan",
+			"br": "Venezuelano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Vietnam",
+			"br": "Vietnã"
+		},
+		"nationality": {
+			"en": "Vietnamese",
+			"br": "Vietnamita"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Wales",
+			"br": "País de Gales"
+		},
+		"nationality": {
+			"en": "Welsh",
+			"br": "Galês"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Zambia",
+			"br": "Zâmbia"
+		},
+		"nationality": {
+			"en": "Zambian",
+			"br": "Zambiano"
+		}
+	},
+
+	{
+		"name:": {
+			"en": "Zimbabwe",
+			"br": "Zimbábue"
+		},
+		"nationality": {
+			"en": "Zimbabwean",
+			"br": "Zimbabueano"
+		}
+	}
+]

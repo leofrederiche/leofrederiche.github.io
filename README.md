@@ -6,4 +6,8 @@ APPs
    Projeto desenvolvido como teste de uma X empresa. Pode parecer bobo, mas também pode ser um bom estudo :)
     
  * [Confete](https://leofrederiche.github.io/apps/confete/index.html) <br>
-   Liberação de Dopamina para quando concluir uma tarefa U.u Ainda em desenvolvimento, quem sabe não se torna um ToDo list U.u
+   Confetes a um click!!!
+
+JSONs
+ * [Countries](https://leofrederiche.github.io/apps/jsons/countries.json) <br>
+ 	 Arquivo JSON contendo nome e nacionalidade da maiorias dos países em Português e Inglês.
