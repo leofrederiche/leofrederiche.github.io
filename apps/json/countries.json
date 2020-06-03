@@ -1,5 +1,8 @@
 [
 	{
+		"ISO": "004",
+		"alfa2": "AF",
+		"alfa3": "AFG",
 		"name:": {
 			"en": "Afghanistan",
 			"br": "Afeganistão"
@@ -11,6 +14,9 @@
 	},
 
 	{
+		"ISO": "032",
+		"alfa2": "AR",
+		"alfa3": "ARG",
 		"name:": {
 			"en": "Argentina",
 			"br": "Argentina"
@@ -22,6 +28,9 @@
 	},
 
 	{
+		"ISO": "051",
+		"alfa2": "AM",
+		"alfa3": "ARM",
 		"name:": {
 			"en": "Armenia",
 			"br": "Armênia"
@@ -33,6 +42,9 @@
 	},
 
 	{
+		"ISO": "024",
+		"alfa2": "AO",
+		"alfa3": "AGO",
 		"name:": {
 			"en": "Angola",
 			"br": "Angola"
@@ -44,6 +56,9 @@
 	},
 
 	{
+		"ISO": "036",
+		"alfa2": "AU",
+		"alfa3": "AUS",
 		"name:": {
 			"en": "Australia",
 			"br": "Austrália"
@@ -55,6 +70,9 @@
 	},
 
 	{
+		"ISO": "040",
+		"alfa2": "AT",
+		"alfa3": "AUT",
 		"name:": {
 			"en": "Austria",
 			"br": "Áustria"
@@ -66,6 +84,9 @@
 	},
 
 	{
+		"ISO": "044",
+		"alfa2": "BS",
+		"alfa3": "BHS",
 		"name:": {
 			"en": "The Bahamas",
 			"br": "Bahamas"
@@ -77,6 +98,9 @@
 	},
 
 	{
+		"ISO": "050",
+		"alfa2": "BD",
+		"alfa3": "BGD",
 		"name:": {
 			"en": "Bangladesh",
 			"br": "Bangladesh"
@@ -88,6 +112,9 @@
 	},
 
 	{
+		"ISO": "056",
+		"alfa2": "BE",
+		"alfa3": "BEL",
 		"name:": {
 			"en": "Belgium",
 			"br": "Bélgica"
@@ -99,6 +126,9 @@
 	},
 
 	{
+		"ISO": "068",
+		"alfa2": "BO",
+		"alfa3": "BOL",
 		"name:": {
 			"en": "Bolivia",
 			"br": "Bolívia"
@@ -110,6 +140,9 @@
 	},
 
 	{
+		"ISO": "100",
+		"alfa2": "BG",
+		"alfa3": "BGR",
 		"name:": {
 			"en": "Bulgaria",
 			"br": "Bulgária"
@@ -121,6 +154,9 @@
 	},
 
 	{
+		"ISO": "076",
+		"alfa2": "BR",
+		"alfa3": "BRA",
 		"name:": {
 			"en": "Brazil",
 			"br": "Brasil"
@@ -132,6 +168,9 @@
 	},
 
 	{
+		"ISO": "116",
+		"alfa2": "KH",
+		"alfa3": "KHM",
 		"name:": {
 			"en": "Cambodia",
 			"br": "Camboja"
@@ -143,6 +182,9 @@
 	},
 
 	{
+		"ISO": "124",
+		"alfa2": "CA",
+		"alfa3": "CAN",
 		"name:": {
 			"en": "Canada",
 			"br": "Canadá"
@@ -154,6 +196,9 @@
 	},
 
 	{
+		"ISO": "140",
+		"alfa2": "CF",
+		"alfa3": "CAF",
 		"name:": {
 			"en": "Central African Republic",
 			"br": "República Centro-Africana"
@@ -165,6 +210,9 @@
 	},
 
 	{
+		"ISO": "156",
+		"alfa2": "CN",
+		"alfa3": "CHN",
 		"name:": {
 			"en": "China",
 			"br": "China"
@@ -176,6 +224,9 @@
 	},
 
 	{
+		"ISO": "152",
+		"alfa2": "CL",
+		"alfa3": "CHL",
 		"name:": {
 			"en": "Chile",
 			"br": "Chile"
@@ -187,6 +238,9 @@
 	},
 
 	{
+		"ISO": "170",
+		"alfa2": "CO",
+		"alfa3": "COL",
 		"name:": {
 			"en": "Colombia",
 			"br": "Colômbia"
@@ -198,6 +252,9 @@
 	},
 
 	{
+		"ISO": "192",
+		"alfa2": "CU",
+		"alfa3": "CUB",
 		"name:": {
 			"en": "Cuba",
 			"br": "Cuba"
@@ -209,6 +266,9 @@
 	},
 
 	{
+		"ISO": "191",
+		"alfa2": "HR",
+		"alfa3": "HRV",
 		"name:": {
 			"en": "Croatia",
 			"br": "Croácia"
@@ -220,6 +280,9 @@
 	},
 
 	{
+		"ISO": "208",
+		"alfa2": "DK",
+		"alfa3": "DNK",
 		"name:": {
 			"en": "Denmark",
 			"br": "Dinamarca"
@@ -231,6 +294,9 @@
 	},
 
 	{
+		"ISO": "818",
+		"alfa2": "EG",
+		"alfa3": "EGY",
 		"name:": {
 			"en": "Egypt",
 			"br": "Egito"
@@ -242,6 +308,9 @@
 	},
 
 	{
+		"ISO": "",
+		"alfa2": "",
+		"alfa3": "",
 		"name:": {
 			"en": "England",
 			"br": "Inglaterra"
@@ -253,6 +322,9 @@
 	},
 
 	{
+		"ISO": "218",
+		"alfa2": "EC",
+		"alfa3": "ECU",
 		"name:": {
 			"en": "Ecuador",
 			"br": "Equador"
@@ -264,6 +336,9 @@
 	},
 
 	{
+		"ISO": "233",
+		"alfa2": "EE",
+		"alfa3": "EST",
 		"name": {
 			"en": "Estonia",
 			"br": "Estônia"
@@ -276,6 +351,9 @@
 
 
 	{
+		"ISO": "246",
+		"alfa2": "FI",
+		"alfa3": "FIN",
 		"name:": {
 			"en": "Finland",
 			"br": "Finlândia"
@@ -287,6 +365,9 @@
 	},
 
 	{
+		"ISO": "250",
+		"alfa2": "FR",
+		"alfa3": "FRA",
 		"name:": {
 			"en": "France",
 			"br": "França"
@@ -298,6 +379,9 @@
 	},
 
 	{
+		"ISO": "300",
+		"alfa2": "GR",
+		"alfa3": "GRC",
 		"name:": {
 			"en": "Greece",
 			"br": "Grécia"
@@ -309,6 +393,9 @@
 	},
 
 	{
+		"ISO": "276",
+		"alfa2": "DE",
+		"alfa3": "DEU",
 		"name:": {
 			"en": "Germany",
 			"br": "Alemanha"
@@ -320,6 +407,9 @@
 	},
 
 	{
+		"ISO": "528",
+		"alfa2": "NL",
+		"alfa3": "NLD",
 		"name:": {
 			"en": "Holland",
 			"br": "Holanda"
@@ -331,6 +421,9 @@
 	},
 
 	{
+		"ISO": "332",
+		"alfa2": "HT",
+		"alfa3": "HTI",
 		"name:": {
 			"en": "Haiti",
 			"br": "Haiti"
@@ -342,7 +435,10 @@
 	},
 
 	{
-		"name:": 
+		"ISO": "340",
+		"alfa2": "HN",
+		"alfa3": "HND",
+		"name:": { 
 			"en": "Honduras",
 			"br": "Honduras"
 		},
@@ -353,6 +449,9 @@
 	},
 
 	{
+		"ISO": "348",
+		"alfa2": "HU",
+		"alfa3": "HUN",
 		"name:": {
 			"en": "Hungary",
 			"br": "Hungria"
@@ -364,6 +463,9 @@
 	},
 
 	{
+		"ISO": "372",
+		"alfa2": "IE",
+		"alfa3": "IRL",
 		"name:": {
 			"en": "Ireland",
 			"br": "Irlanda"
@@ -375,6 +477,9 @@
 	},
 
 	{
+		"ISO": "352",
+		"alfa2": "IS",
+		"alfa3": "ISL",
 		"name:": {
 			"en": "Iceland",
 			"br": "Islândia"
@@ -386,6 +491,9 @@
 	},
 
 	{
+		"ISO": "380",
+		"alfa2": "IT",
+		"alfa3": "ITA",
 		"name:": {
 			"en": "Italy",
 			"br": "Itália"
@@ -397,6 +505,9 @@
 	},
 
 	{
+		"ISO": "360",
+		"alfa2": "ID",
+		"alfa3": "IDN",
 		"name:": {
 			"en": "Indonesia",
 			"br": "Indonésia"
@@ -408,6 +519,9 @@
 	},
 
 	{
+		"ISO": "392",
+		"alfa2": "JP",
+		"alfa3": "JPN",
 		"name:": {
 			"en": "Japan",
 			"br": "Japão"
@@ -419,6 +533,9 @@
 	},
 
 	{
+		"ISO": "388",
+		"alfa2": "JM",
+		"alfa3": "JAM",
 		"name:": {
 			"en": "Jamaica",
 			"br": "Jamaica"
@@ -430,6 +547,9 @@
 	},
 
 	{
+		"ISO": "400",
+		"alfa2": "JO",
+		"alfa3": "JOR",
 		"name:": {
 			"en": "Jordan",
 			"br": "Jordânia"
@@ -441,6 +561,9 @@
 	},
 
 	{
+		"ISO": "414",
+		"alfa2": "KW",
+		"alfa3": "KWT",
 		"name:": {
 			"en": "Kuwait",
 			"br": "Kuwait"
@@ -452,6 +575,9 @@
 	},
 
 	{
+		"ISO": "430",
+		"alfa2": "LR",
+		"alfa3": "LBR",
 		"name": {
 			"en": "Liberia",
 			"br": "Libéria"
@@ -463,6 +589,9 @@
 	},
 
 	{
+		"ISO": "442",
+		"alfa2": "LU",
+		"alfa3": "LUX",
 		"name:": {
 			"en": "Luxembourg",
 			"br": "Luxemburgo"
@@ -474,6 +603,9 @@
 	},
 
 	{
+		"ISO": "434",
+		"alfa2": "LY",
+		"alfa3": "LBY",
 		"name": {
 			"en": "Lybia",
 			"br": "Líbia"
@@ -485,6 +617,9 @@
 	},
 
 	{
+		"ISO": "807",
+		"alfa2": "MK",
+		"alfa3": "MKD",
 		"name:": {
 			"en": "Macedonia",
 			"br": "Macedônia"
@@ -496,6 +631,9 @@
 	},
 
 	{
+		"ISO": "450",
+		"alfa2": "MG",
+		"alfa3": "MDG",
 		"name:": {
 			"en": "Madagascar",
 			"br": "Madagascar"
@@ -507,6 +645,9 @@
 	},
 
 	{
+		"ISO": "458",
+		"alfa2": "MY",
+		"alfa3": "MYS",
 		"name:": {
 			"en": "Malaysia",
 			"br": "Malásia"
@@ -518,6 +659,9 @@
 	},
 
 	{
+		"ISO": "484",
+		"alfa2": "MX",
+		"alfa3": "MEX",
 		"name:": {
 			"en": "Mexico",
 			"br": "México"
@@ -529,6 +673,9 @@
 	},
 
 	{
+		"ISO": "578",
+		"alfa2": "NO",
+		"alfa3": "NOR",
 		"name:": {
 			"en": "Norway",
 			"br": "Noruega"
@@ -540,6 +687,9 @@
 	},
 
 	{
+		"ISO": "554",
+		"alfa2": "NZ",
+		"alfa3": "NZL",
 		"name:": {
 			"en": "New Zealand",
 			"br": "Nova Zelândia"
@@ -551,6 +701,9 @@
 	},
 
 	{
+		"ISO": "408",
+		"alfa2": "KP",
+		"alfa3": "PRK",
 		"name:": {
 			"en": "North Korea",
 			"br": "Coreia do Norte"
@@ -562,6 +715,9 @@
 	},
 
 	{
+		"ISO": "275",
+		"alfa2": "PS",
+		"alfa3": "PSE",
 		"name:": {
 			"en": "Palestine",
 			"br": "Palestina"
@@ -573,6 +729,9 @@
 	},
 
 	{
+		"ISO": "600",
+		"alfa2": "PY",
+		"alfa3": "PRY",
 		"name:": {
 			"en": "Paraguay",
 			"br": "Paraguai"
@@ -584,6 +743,9 @@
 	},
 
 	{
+		"ISO": "616",
+		"alfa2": "PL",
+		"alfa3": "POL",
 		"name:": {
 			"en": "Poland",
 			"br": "Polônia"
@@ -595,6 +757,9 @@
 	},
 
 	{
+		"ISO": "604",
+		"alfa2": "PE",
+		"alfa3": "PER",
 		"name:": {
 			"en": "Peru",
 			"br": "Peru"
@@ -606,6 +771,9 @@
 	},
 
 	{
+		"ISO": "620",
+		"alfa2": "PT",
+		"alfa3": "PRT",
 		"name:": {
 			"en": "Portugal",
 			"br": "Portugal"
@@ -617,6 +785,9 @@
 	},
 
 	{
+		"ISO": "643",
+		"alfa2": "RU",
+		"alfa3": "RUS",
 		"name:": {
 			"en": "Russia",
 			"br": "Rússia"
@@ -628,6 +799,9 @@
 	},
 
 	{
+		"ISO": "710",
+		"alfa2": "ZA",
+		"alfa3": "ZAF",
 		"name:": {
 			"en": "South Africa",
 			"br": "África do Sul"
@@ -639,6 +813,9 @@
 	},
 
 	{
+		"ISO": "410",
+		"alfa2": "KR",
+		"alfa3": "KOR",
 		"name:": {
 			"en": "South Korea",
 			"br": "Coreia do Sul"
@@ -650,6 +827,9 @@
 	},
 
 	{
+		"ISO": "",
+		"alfa2": "",
+		"alfa3": "",
 		"name:": {
 			"en": "Scotland",
 			"br": "Escócia"
@@ -661,6 +841,9 @@
 	},
 
 	{
+		"ISO": "724",
+		"alfa2": "ES",
+		"alfa3": "ESP",
 		"name:": {
 			"en": "Spain",
 			"br": "Espanha"
@@ -672,6 +855,9 @@
 	},
 
 	{
+		"ISO": "752",
+		"alfa2": "SE",
+		"alfa3": "SWE",
 		"name:": {
 			"en": "Sweden",
 			"br": "Suécia"
@@ -683,6 +869,9 @@
 	},
 
 	{
+		"ISO": "756",
+		"alfa2": "CH",
+		"alfa3": "CHE",
 		"name:": {
 			"en": "Switzerland",
 			"br": "Suíça"
@@ -694,6 +883,9 @@
 	},
 
 	{
+		"ISO": "764",
+		"alfa2": "TH",
+		"alfa3": "THA",
 		"name:": {
 			"en": "Thailand",
 			"br": "Tailândia"
@@ -705,6 +897,9 @@
 	},
 
 	{
+		"ISO": "840",
+		"alfa2": "US",
+		"alfa3": "USA",
 		"name:": {
 			"en": "United States",
 			"br": "Estados Unidos"
@@ -716,6 +911,9 @@
 	},
 
 	{
+		"ISO": "804",
+		"alfa2": "UA",
+		"alfa3": "UKR",
 		"name:": {
 			"en": "Ukraine",
 			"br": "Ucrânia"
@@ -727,6 +925,9 @@
 	},
 
 	{
+		"ISO": "858",
+		"alfa2": "UY",
+		"alfa3": "URY",
 		"name:": {
 			"en": "Uruguay",
 			"br": "Uruguai"
@@ -738,6 +939,9 @@
 	},
 
 	{
+		"ISO": "826",
+		"alfa2": "GB",
+		"alfa3": "GBR",
 		"name:": {
 			"en": "United Kingdom",
 			"br": "Reino Unido"
@@ -749,6 +953,9 @@
 	},
 
 	{
+		"ISO": "862",
+		"alfa2": "VE",
+		"alfa3": "VEN",
 		"name:": {
 			"en": "Venezuela",
 			"br": "Venezuela"
@@ -760,6 +967,9 @@
 	},
 
 	{
+		"ISO": "704",
+		"alfa2": "VN",
+		"alfa3": "VNM",
 		"name:": {
 			"en": "Vietnam",
 			"br": "Vietnã"
@@ -771,6 +981,9 @@
 	},
 
 	{
+		"ISO": "",
+		"alfa2": "",
+		"alfa3": "",
 		"name:": {
 			"en": "Wales",
 			"br": "País de Gales"
@@ -782,6 +995,9 @@
 	},
 
 	{
+		"ISO": "894",
+		"alfa2": "ZM",
+		"alfa3": "ZMB",
 		"name:": {
 			"en": "Zambia",
 			"br": "Zâmbia"
@@ -793,6 +1009,9 @@
 	},
 
 	{
+		"ISO": "716",
+		"alfa2": "ZW",
+		"alfa3": "ZWE",
 		"name:": {
 			"en": "Zimbabwe",
 			"br": "Zimbábue"

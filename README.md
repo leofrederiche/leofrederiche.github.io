@@ -10,4 +10,4 @@ APPs
 
 JSONs
  * [Countries](https://leofrederiche.github.io/apps/json/countries.json) <br>
- 	 Arquivo JSON contendo nome e nacionalidade da maiorias dos países em Português e Inglês.
+ 	 Arquivo JSON contendo ISO, Alfa, Nome e Nacionalidade da maiorias dos países em Português e Inglês.
