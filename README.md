@@ -9,5 +9,5 @@ APPs
    Confetes a um click!!!
 
 JSONs
- * [Countries](https://leofrederiche.github.io/apps/jsons/countries.json) <br>
+ * [Countries](https://leofrederiche.github.io/apps/json/countries.json) <br>
  	 Arquivo JSON contendo nome e nacionalidade da maiorias dos países em Português e Inglês.
