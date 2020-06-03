@@ -1,14 +1,15 @@
 <div class="container">
 	<div class="mug">
 		<div class="coffe">
-			<small>Isto é<br>CSS</small>
+			<small>Vai um <br>café?</small>
 		</div>
 		<div class="cable"></div>
 	</div>
 
 	<div class="iphone">
-		<div class="screen"></div>
-		<div class="button"></div>
+		<div class="screen" id="screen">
+		</div>
+		<div class="button" onclick="changeScreen();"></div>
 	</div>
 </div>
 
@@ -62,7 +63,7 @@
 		background-image: linear-gradient(120deg, #795548, #2E1713);
 		box-shadow: 10px 0 30px rgba(0,0,0,1) inset;
 		text-align: center;
-		color: rgba(255,255,255,0.1);
+		color: rgba(255,255,255,0.04);
 		font-family: 'Verdana';
 		font-weight: bold;
 		z-index: 10;
@@ -95,6 +96,7 @@
 		left: 5%;
 		top: 75px;
 		position: relative;
+		transition: 2s;
 	}
 
 	.button{
@@ -106,6 +108,10 @@
 		position: relative;
 		box-shadow: 0 0 10px rgba(0,0,0,0.1) inset;
 		top: 17%;
+	}
+
+	.button:hover {
+		box-shadow: 0 0 10px rgba(0,0,0,0.3) inset;
 	}
 
 	@media screen and (min-width: 1000px){
@@ -126,3 +132,18 @@
 		}
 	}
 </style>
+
+<script type="text/javascript">
+	var screenOn = false
+	var screen = document.getElementById('screen')
+
+	function changeScreen() {
+		if (screenOn) {
+			screen.style.background = "#333"
+			screenOn = false
+		} else {
+			screen.style.background = "#eee"
+			screenOn = true
+		}
+	}
+</script>

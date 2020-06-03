@@ -25,7 +25,145 @@
 	</nav>
 
 	<div class="section" id="home-section">
-		<iframe src="bg-index.html"></iframe>
+
+		<!-- IPHONE AND COFFE -->
+		<div class="container">
+			<div class="mug">
+				<div class="coffe">
+					<small>Vai um <br>café?</small>
+				</div>
+				<div class="cable"></div>
+			</div>
+
+			<div class="iphone">
+				<div class="screen" id="screen">
+				</div>
+				<div class="button" onclick="changeScreen();"></div>
+			</div>
+		</div>
+
+		<style type="text/css">
+			*{
+				margin: 0;
+				padding: 0;	
+			}
+
+			.mug{
+				position: absolute;
+				left: 60%;
+				top: 60vh;
+				transform: scale(0.7);
+				width: 200px;
+				height: 200px;
+				border: 1px solid #7f8c8d;
+				border-radius: 100%;
+				background-color: #eee;
+				box-shadow: 0 0 30px rgba(0,0,0,0.6);
+			}
+
+			.cable{
+				position: relative;
+				width: 80px;
+				height: 30px;
+				box-shadow: 0 0 30px rgba(0,0,0,0.6);
+				background-color: #eee;
+				border-radius: 5px;
+				transform: rotateZ(-55deg);
+				z-index: 0;
+			}
+
+			.coffe{
+				width: 180px;
+				height: 180px;
+				border: 1px solid #2E1713;
+				border-radius: 100%;
+				position: relative;
+				left: 10px;
+				top: 10px;
+				background-image: linear-gradient(120deg, #795548, #2E1713);
+				box-shadow: 10px 0 30px rgba(0,0,0,1) inset;
+				text-align: center;
+				color: rgba(255,255,255,0.04);
+				font-family: 'Verdana';
+				font-weight: bold;
+				z-index: 10;
+			}
+
+			.coffe small{
+				position: relative;
+				top: 40%;
+			}
+
+			.iphone{
+				width: 250px;
+				height: 500px;
+				position: absolute;
+				left: -15%;
+				top: -50%;
+				transform: rotateZ(-20deg);
+				background-color: #eee;
+				border: 1px solid rgba(0,0,0,0.1);
+				border-radius: 40px;
+				box-shadow: 5px 0 20px rgba(0,0,0,0.3)
+			}
+
+			.screen{
+				width: 90%;
+				height: 350px;
+				background-color: #333;
+				border: 1px solid #222;
+				box-shadow: 0 0 10px rgba(0,0,0,0.5) inset;
+				left: 5%;
+				top: 75px;
+				position: relative;
+				transition: 2s;
+			}
+
+			.button{
+				width: 45px;
+				height: 45px;
+				border: 1px solid rgba(0,0,0,0.5);
+				border-radius: 100%;
+				margin: 0 auto;
+				position: relative;
+				box-shadow: 0 0 10px rgba(0,0,0,0.1) inset;
+				top: 17%;
+			}
+
+			.button:hover {
+				box-shadow: 0 0 10px rgba(0,0,0,0.3) inset;
+			}
+
+			@media screen and (min-width: 1000px){
+				.iphone{
+					left: -5%;
+					top: -40%;
+				}
+
+				.mug{
+					transform: scale(1);
+					left: 80%;
+					top: 55vh;
+				}
+			}
+		</style>
+
+		<script type="text/javascript">
+			var screenOn = false
+			var screen = document.getElementById('screen')
+
+			function changeScreen() {
+				if (screenOn) {
+					screen.style.background = "#333"
+					screenOn = false
+				} else {
+					screen.style.background = "#eee"
+					screenOn = true
+				}
+			}
+		</script>
+		<!-- IPHONE AND COFFE -->
+
 		<h1><span class="title-fonte">Olá! Eu sou </span>
 			<p class="title-fonte title-name">Leonardo C. Frederiche</p>
 		</h1>
@@ -49,19 +187,19 @@
 		<div class="flexible-container">
 			<div class="block">
 				<p>
-					Iniciei minha curiosidade pelo desenvolvimento em 2010 com 12 anos. Sedento por conhecimento sobre a área, encontrei uma startup em 2012 da qual me ensinaram conceitos como <b>Scrum</b>, <b>Metodologia Ágil</b>, <b>MVC</b> e o FrameWork <b><i>Rails</i></b>.
+					Iniciei minha curiosidade pela programação em 2010 com 12 anos. Sedento por conhecimento sobre a área, encontrei uma startup 2 anos depois da qual me ensinaram conceitos como <b>Scrum</b>, <b>Metodologia Ágil</b>, <b>MVC</b> e o FrameWork <b><i>Rails</i></b>.
 				</p>
 			</div>
 
 			<div class="block">
 				<p>
-					De forma resumida, meu histórico de conhecimentos se baseia em Desenvolvimento Web com JS e Frameworks e Desktop com Delphi com desenvolvimento Multicamadas e desenvolvimento de APIs.
+					De forma resumida, meu histórico de conhecimentos se baseia em Desenvolvimento Web com JS e Frameworks e no Desktop com Delphi, sempre trablhando com desenvolvimento em Multicamadas, criação e consumo e APIs.
 				</p>
 			</div>
 
 			<div class="block">
 				<p>
-					Atualmente estou trabalhando com Desenvolvimento Desktop, focando esforços em conhecimentos de Engenharia de Software, POO e Boas práticas. Alias programar com o coração <span class="tooltip">não faz código bom nao é mesmo? <span class="tooltipText">Talvez café...</span> </span>
+					Atualmente estou trabalhando como Desenvolvedor Web (backend), concentrando meus esforços em Engenharia de Software, POO e Boas práticas. Alias programar com o coração <span class="tooltip">não faz código bom não é mesmo? <span class="tooltipText">Talvez com café...</span> </span>
 				</p>
 			</div>
 		</div>
@@ -102,7 +240,10 @@
 	</div>
 
 	<div class="section" id="contact-section">
-		<h2><i class="material-icons">contacts</i> Me chama lá :D</h2>
+		<h2>
+			<i class="material-icons">contacts</i> Me chama lá :D
+		</h2>
+
 		<div class="flexible-container">
 			<div class="block">
 				<i class="material-icons">mail_outline</i> <b>E-mail</b> 

@@ -136,6 +136,8 @@ nav a:hover{
 #home-section{
 	font-family: 'Rubik Mono One', sans-serif;
 	color: #ecf0f1;
+	background-image: linear-gradient(to top, #9b59b6, #1CA3DE);
+	height: 100vh;
 }
 
 #home-section h1{
@@ -150,7 +152,6 @@ nav a:hover{
 	margin: 0 auto;
 	font-family: 'Ubuntu', sans-serif;
 	color: #34495e;
-	padding: 10px;
 	position: relative;
 	font-style: italic;
 	font-size: 1.2em;
