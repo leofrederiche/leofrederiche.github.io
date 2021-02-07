@@ -4,7 +4,7 @@
       "title": "Articulação e Sistema ósseo",
       "chackras": [
         {
-          "chackra_id": "Genésico",
+          "name": "Genésico",
           "colors": [
             {
               "name": "red",
@@ -25,7 +25,7 @@
           ]
         },
         {
-          "chackra_id": "Gástrico",
+          "name": "Gástrico",
           "colors": [
             {
               "name": "red",
