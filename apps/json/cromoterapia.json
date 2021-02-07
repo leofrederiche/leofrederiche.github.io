@@ -1,0 +1,98 @@
+{
+  "treatments": [
+    {
+      "title": "Articulação e Sistema ósseo",
+      "chackras": [
+        {
+          "chackra_id": "Genésico",
+          "colors": [
+            {
+              "name": "red",
+              "time": 30
+            },
+            {
+              "name": "yellow",
+              "time": 60
+            },
+            {
+              "name": "sky",
+              "time": 30
+            },
+            {
+              "name": "violet",
+              "time": 30
+            }
+          ]
+        },
+        {
+          "chackra_id": "Gástrico",
+          "colors": [
+            {
+              "name": "red",
+              "time": 30
+            },
+            {
+              "name": "yellow",
+              "time": 60
+            },
+            {
+              "name": "sky",
+              "time": 30
+            },
+            {
+              "name": "violet",
+              "time": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Orgãos Reprodutores",
+      "chackras": [
+        {
+          "chackra_id": 1,
+          "colors": [
+            {
+              "name": "orange",
+              "time": 30
+            },
+            {
+              "name": "yellow",
+              "time": 60
+            },
+            {
+              "name": "green",
+              "time": 60
+            },
+            {
+              "name": "red",
+              "time": 30
+            }
+          ]
+        },
+        {
+          "chackra_id": 2,
+          "colors": [
+            {
+              "name": "orange",
+              "time": 30
+            },
+            {
+              "name": "yellow",
+              "time": 60
+            },
+            {
+              "name": "green",
+              "time": 60
+            },
+            {
+              "name": "red",
+              "time": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
