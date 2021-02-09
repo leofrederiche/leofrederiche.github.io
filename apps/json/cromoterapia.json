@@ -1,98 +1,796 @@
 {
-  "treatments": [
-    {
-      "title": "Articulação e Sistema ósseo",
-      "chackras": [
+    "treatments": [
         {
-          "name": "Genésico",
-          "colors": [
-            {
-              "name": "red",
-              "time": 30
-            },
-            {
-              "name": "yellow",
-              "time": 60
-            },
-            {
-              "name": "sky",
-              "time": 30
-            },
-            {
-              "name": "violet",
-              "time": 30
-            }
-          ]
+            "title": "Articulação e Sistema ósseo",
+            "chackras": [
+                {
+                    "name": "Genésico",
+                    "colors": [
+                        {
+                            "name": "red",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "name": "Gástrico",
-          "colors": [
-            {
-              "name": "red",
-              "time": 30
-            },
-            {
-              "name": "yellow",
-              "time": 60
-            },
-            {
-              "name": "sky",
-              "time": 30
-            },
-            {
-              "name": "violet",
-              "time": 30
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Orgãos Reprodutores",
-      "chackras": [
-        {
-          "chackra_id": 1,
-          "colors": [
-            {
-              "name": "orange",
-              "time": 30
-            },
-            {
-              "name": "yellow",
-              "time": 60
-            },
-            {
-              "name": "green",
-              "time": 60
-            },
-            {
-              "name": "red",
-              "time": 30
-            }
-          ]
+            "title": "Orgãos Reprodutores",
+            "chackras": [
+                {
+                    "name": "Genésico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "red",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Gástrico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "red",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "chackra_id": 2,
-          "colors": [
-            {
-              "name": "orange",
-              "time": 30
-            },
-            {
-              "name": "yellow",
-              "time": 60
-            },
-            {
-              "name": "green",
-              "time": 60
-            },
-            {
-              "name": "red",
-              "time": 30
-            }
-          ]
+            "title": "Aparelho Urinário",
+            "chackras": [
+                {
+                    "name": "Gástrico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "red",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Genésico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "red",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Esplênico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "red",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Aparelho Digestório ou Sistema digestivo",
+            "chackras": [
+                {
+                    "name": "Esplênico",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Gástrico",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "orange",
+                            "time": 30
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sistema circulatório e cadíaco",
+            "chackras": [
+                {
+                    "name": "Cardíaco",
+                    "colors": [
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Laríngeo",
+                    "colors": [
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sistema respiratório",
+            "chackras": [
+                {
+                    "name": "Laríngeo",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Cardíaco",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Frontal",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Coronário",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Laríngeo",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Olhos, Nariz, ouvidos e garganta",
+            "chackras": [
+                {
+                    "name": "Frontal",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Esplênico",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Laríngeo",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Lesões de pele",
+            "chackras": [
+                {
+                    "name": "Sobre a lesão",
+                    "colors": [
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        },
+                        {
+                            "name": "red",
+                            "time": 60
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Alterações emocionais",
+            "chackras": [
+                {
+                    "name": "Chackra Frontal",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Cardíaco",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Laríngeo",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Doenças auto-imune e transplantados",
+            "chackras": [
+                {
+                    "name": "Chackra Esplênico",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Cardíaco",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Frontal",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Coronário",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Laríngeo",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 60
+                        },
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "title": "Alzheimer e Epilepsia",
+            "chackras": [
+                {
+                    "name": "Chackra Coronário",
+                    "colors": [
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Esplênico",
+                    "colors": [
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tumores",
+            "chackras": [
+                {
+                    "name": "Chackra Coronário",
+                    "colors": [
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Frontal",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Laríngeo",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Cardíaco",
+                    "colors": [
+                        {
+                            "name": "sky",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Esplênico",
+                    "colors": [
+                        {
+                            "name": "yellow",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Chackra Gástrico",
+                    "colors": [
+                        {
+                            "name": "orange",
+                            "time": 60
+                        },
+                        {
+                            "name": "violet",
+                            "time": 30
+                        },
+                        {
+                            "name": "yellow",
+                            "time": 60,
+                        },
+                        {
+                            "name": "sky",
+                            "time": 60
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
