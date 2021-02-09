@@ -4,7 +4,7 @@
             "title": "Articulação e Sistema ósseo",
             "chackras": [
                 {
-                    "name": "Genésico",
+                    "name": "Chackra Genésico",
                     "colors": [
                         {
                             "name": "red",
@@ -30,7 +30,7 @@
             "title": "Orgãos Reprodutores",
             "chackras": [
                 {
-                    "name": "Genésico",
+                    "name": "Chackra Genésico",
                     "colors": [
                         {
                             "name": "orange",
@@ -51,7 +51,7 @@
                     ]
                 },
                 {
-                    "name": "Gástrico",
+                    "name": "Chackra Gástrico",
                     "colors": [
                         {
                             "name": "orange",
@@ -77,7 +77,7 @@
             "title": "Aparelho Urinário",
             "chackras": [
                 {
-                    "name": "Gástrico",
+                    "name": "Chackra Gástrico",
                     "colors": [
                         {
                             "name": "orange",
@@ -102,7 +102,7 @@
                     ]
                 },
                 {
-                    "name": "Genésico",
+                    "name": "Chackra Genésico",
                     "colors": [
                         {
                             "name": "orange",
@@ -127,7 +127,7 @@
                     ]
                 },
                 {
-                    "name": "Esplênico",
+                    "name": "Chackra Esplênico",
                     "colors": [
                         {
                             "name": "orange",
@@ -157,7 +157,7 @@
             "title": "Aparelho Digestório ou Sistema digestivo",
             "chackras": [
                 {
-                    "name": "Esplênico",
+                    "name": "Chackra Esplênico",
                     "colors": [
                         {
                             "name": "yellow",
@@ -178,7 +178,7 @@
                     ]
                 },
                 {
-                    "name": "Gástrico",
+                    "name": "Chackra Gástrico",
                     "colors": [
                         {
                             "name": "yellow",
@@ -204,7 +204,7 @@
             "title": "Sistema circulatório e cadíaco",
             "chackras": [
                 {
-                    "name": "Cardíaco",
+                    "name": "Chackra Cardíaco",
                     "colors": [
                         {
                             "name": "green",
@@ -221,7 +221,7 @@
                     ]
                 },
                 {
-                    "name": "Laríngeo",
+                    "name": "Chackra Laríngeo",
                     "colors": [
                         {
                             "name": "green",
@@ -243,7 +243,7 @@
             "title": "Sistema respiratório",
             "chackras": [
                 {
-                    "name": "Laríngeo",
+                    "name": "Chackra Laríngeo",
                     "colors": [
                         {
                             "name": "sky",
@@ -264,7 +264,7 @@
                     ]
                 },
                 {
-                    "name": "Cardíaco",
+                    "name": "Chackra Cardíaco",
                     "colors": [
                         {
                             "name": "sky",
@@ -285,7 +285,7 @@
                     ]
                 },
                 {
-                    "name": "Frontal",
+                    "name": "Chackra Frontal",
                     "colors": [
                         {
                             "name": "sky",
@@ -306,7 +306,7 @@
                     ]
                 },
                 {
-                    "name": "Coronário",
+                    "name": "Chackra Coronário",
                     "colors": [
                         {
                             "name": "sky",
@@ -327,7 +327,7 @@
                     ]
                 },
                 {
-                    "name": "Laríngeo",
+                    "name": "Chackra Laríngeo",
                     "colors": [
                         {
                             "name": "sky",
@@ -353,7 +353,7 @@
             "title": "Olhos, Nariz, ouvidos e garganta",
             "chackras": [
                 {
-                    "name": "Frontal",
+                    "name": "Chackra Frontal",
                     "colors": [
                         {
                             "name": "blue",
@@ -370,7 +370,7 @@
                     ]
                 },
                 {
-                    "name": "Esplênico",
+                    "name": "Chackra Esplênico",
                     "colors": [
                         {
                             "name": "blue",
@@ -387,7 +387,7 @@
                     ]
                 },
                 {
-                    "name": "Laríngeo",
+                    "name": "Chackra Laríngeo",
                     "colors": [
                         {
                             "name": "blue",
