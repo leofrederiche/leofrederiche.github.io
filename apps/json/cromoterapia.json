@@ -7,19 +7,19 @@
                     "name": "Chackra Genésico",
                     "colors": [
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         }
                     ]
@@ -33,19 +33,19 @@
                     "name": "Chackra Genésico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         }
                     ]
@@ -54,19 +54,19 @@
                     "name": "Chackra Gástrico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         }
                     ]
@@ -80,23 +80,23 @@
                     "name": "Chackra Gástrico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         }
                     ]
@@ -105,23 +105,23 @@
                     "name": "Chackra Genésico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         }
                     ]
@@ -130,23 +130,23 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 30
                         }
                     ]
@@ -160,19 +160,19 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -181,19 +181,19 @@
                     "name": "Chackra Gástrico",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 30
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -207,15 +207,15 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -224,15 +224,15 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -246,19 +246,19 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -267,19 +267,19 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -288,19 +288,19 @@
                     "name": "Chackra Frontal",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -309,19 +309,19 @@
                     "name": "Chackra Coronário",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -330,19 +330,19 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -356,15 +356,15 @@
                     "name": "Chackra Frontal",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -373,15 +373,15 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -390,15 +390,15 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -412,23 +412,23 @@
                     "name": "Sobre a lesão",
                     "colors": [
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         },
                         {
-                            "name": "red",
+                            "color": "red",
                             "time": 60
                         }
                     ]
@@ -442,19 +442,19 @@
                     "name": "Chackra Frontal",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -463,19 +463,19 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -484,19 +484,19 @@
                     "name": "Chackra Coronário",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -505,19 +505,19 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 30
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -531,23 +531,23 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -556,23 +556,23 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -581,23 +581,23 @@
                     "name": "Chackra Frontal",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -606,23 +606,23 @@
                     "name": "Chackra Coronário",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -631,23 +631,23 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "green",
+                            "color": "green",
                             "time": 60
                         },
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -662,15 +662,15 @@
                     "name": "Chackra Coronário",
                     "colors": [
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -679,15 +679,15 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -701,15 +701,15 @@
                     "name": "Chackra Coronário",
                     "colors": [
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -718,19 +718,19 @@
                     "name": "Chackra Frontal",
                     "colors": [
                         {
-                            "name": "blue",
+                            "color": "blue",
                             "time": 60
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 30
                         }
                     ]
@@ -739,15 +739,15 @@
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         }
                     ]
@@ -756,19 +756,19 @@
                     "name": "Chackra Cardíaco",
                     "colors": [
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -777,15 +777,15 @@
                     "name": "Chackra Esplênico",
                     "colors": [
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
@@ -794,19 +794,19 @@
                     "name": "Chackra Gástrico",
                     "colors": [
                         {
-                            "name": "orange",
+                            "color": "orange",
                             "time": 60
                         },
                         {
-                            "name": "violet",
+                            "color": "violet",
                             "time": 30
                         },
                         {
-                            "name": "yellow",
+                            "color": "yellow",
                             "time": 60
                         },
                         {
-                            "name": "sky",
+                            "color": "sky",
                             "time": 60
                         }
                     ]
