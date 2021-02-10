@@ -481,6 +481,27 @@
                     ]
                 },
                 {
+                    "name": "Chackra Coronário",
+                    "colors": [
+                        {
+                            "name": "blue",
+                            "time": 60
+                        },
+                        {
+                            "name": "green",
+                            "time": 30
+                        },
+                        {
+                            "name": "violet",
+                            "time": 60
+                        },
+                        {
+                            "name": "sky",
+                            "time": 30
+                        }
+                    ]
+                },
+                {
                     "name": "Chackra Laríngeo",
                     "colors": [
                         {
