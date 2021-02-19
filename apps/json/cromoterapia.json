@@ -1,6 +1,20 @@
 {
     "treatments": [
         {
+            "title":"Teste",
+            "editable": false,
+            "chackras": [
+                {
+                    "name": "Chackra Genésico",
+                    "colors": [{ "color": "red", "time": 5 }, { "color": "blue", "time": 5 }]
+                },
+                {
+                    "name": "Chackra Gástrico",
+                    "colors": [{ "color": "green", "time": 5 }, { "color": "yellow", "time": 5 }]
+                }
+            ]
+        },
+        {
             "title": "Articulação e Sistema ósseo",
             "editable": false,
             "chackras": [
