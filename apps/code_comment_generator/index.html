@@ -155,8 +155,8 @@
                     var indexOfSpace = limite.lastIndexOf(" ")
 
                     if (indexOfSpace > 0) {
-                        novasLinhas.push(linha.substring(0, indexOfSpace))
-                        linha = linha.substring(indexOfSpace)
+                        novasLinhas.push(linha.substring(0, indexOfSpace + 1))
+                        linha = linha.substring(indexOfSpace + 1)
                     } else {
                         novasLinhas.push(linha.substring(0, maxDescription - 1))
                         linha = linha.substring(maxDescription - 1)
