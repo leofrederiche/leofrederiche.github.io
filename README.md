@@ -7,11 +7,11 @@ APPs
     
  * [Confete](https://leofrederiche.github.io/apps/confete/index.html) <br>
    Confetes a um click!!!
+   
+ * [Code Comment Generator](https://leofrederiche.github.io/apps/code_comment_generator/index.html) <br>
+ 	WebAPP que gerá comentários formatados para seu código
 
 JSONs
  * [Countries](https://leofrederiche.github.io/apps/json/countries.json) <br>
  	 Arquivo JSON contendo ISO, Alfa, Nome e Nacionalidade da maiorias dos países em Português e Inglês.
-    
-Gerador de Comentários de Código
- * [Countries](https://leofrederiche.github.io/apps/code_comment_generator/index.html) <br>
- 	 WebAPP que gerá comentários formatados para seu código
+
