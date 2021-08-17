@@ -8,8 +8,8 @@ APPs
  * [Confete](https://leofrederiche.github.io/apps/confete/index.html) <br>
    Confetes a um click!!!
    
- * [Code Comment Generator](https://leofrederiche.github.io/apps/code_comment_generator/index.html) <br>
- 	WebAPP que gerá comentários formatados para seu código
+ * [Code Comment Generator](https://leofrederiche.github.io/apps/code_comment_generator/index.html) 
+ 	 WebAPP que gerá comentários formatados para seu código
 
 JSONs
  * [Countries](https://leofrederiche.github.io/apps/json/countries.json) <br>

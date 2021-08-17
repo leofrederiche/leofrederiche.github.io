@@ -166,12 +166,7 @@
                 novasLinhas.push(linha)                
             })
 
-			console.log("ANTES DO ESPAÇAMENTO")
-			console.table(novasLinhas)
-
-			novasLinhas = novasLinhas.map((linha, index) => {
-				console.log("linha:" + linha + " | " + linha.length)
-				
+			novasLinhas = novasLinhas.map((linha, index) => {				
 				// Primeira linha
 				if (index === 0) {
 					linha = linha + " ".repeat(maxDescription - linha.length) + "*/"
@@ -187,9 +182,6 @@
 
 				return "/*" + " ".repeat(lineStart) + linha + " ".repeat(maxDescription - linha.length) + "*/"
 			})
-
-			console.log("POS ESPAÇAMENTO")
-			console.table(novasLinhas)
             
             return novasLinhas.join('\n')
         }
