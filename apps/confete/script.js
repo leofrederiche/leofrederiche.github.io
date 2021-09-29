@@ -11,9 +11,14 @@ $('document').ready(function(){
 		return Math.floor((Math.random() * screenWidth));
 	}
 
+	function RandomAnimation(){
+		return Math.floor((Math.random() * 3)) + 1
+	}
+
 	function GenerateConfetti(){
 		$(confetti).appendTo('body').css({
-			'left': RandomLeft()
+			'left': RandomLeft(),
+			'animation-name': 'ConfettiAnimation' + RandomAnimation()
 		}).addClass(
 			'style' + RandomStyle()
 		);
@@ -21,15 +26,17 @@ $('document').ready(function(){
 
 	$('.btnSuccess').click(function(){
 		var count = 0;
+		var limite = 100
+		var interval = 25
 
 		setInterval(function(){
-			if (count < 50){
+			if (count < limite){
 				GenerateConfetti();	
 				count++;
 			}
 
 			console.log(count);
-		}, 50);
+		}, interval);
 	});
 
 });

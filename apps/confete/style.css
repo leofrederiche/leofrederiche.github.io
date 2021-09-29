@@ -1,6 +1,17 @@
-.btnSuccess{
+.btnSuccess {
 	position: relative;
 	top: 40vh;
+    border: 1px solid black;
+    padding: 15px 30px;
+    border-radius: 3px;
+    background-color: #ecf0f1;
+    color: #303030;
+}
+
+.btnSuccess:hover {
+    border-color: #2e9c31;
+    background-color: #2ecc71;
+    color: #efefef;
 }
 
 .confetti{
@@ -13,16 +24,55 @@
 	border: 1px solid black;
 	border-radius: 20px;	
 
-	animation-name: ConfettiAnimation;
+	/*animation-name: ConfettiAnimation;*/
 	animation-duration: 4s;
-	animation-timing-function: ease-out;
+	/*animation-timing-function: ease-out; */
+    transition: 1s;
 }
 
-@keyframes ConfettiAnimation{
+@keyframes ConfettiAnimation1{
 	0%{
-		top: 0%;
+		top: 95%;
 		transform: rotate3d(0,0,0, 0deg);
-	};
+	}
+
+    10% {
+        top: 0%;
+    }
+
+    100% {
+        top: 95%;
+    }
+}
+
+@keyframes ConfettiAnimation2 {
+    0%{
+		top: 95%;
+		transform: rotate3d(0,0,0, 0deg);
+	}
+
+    20% {
+        top: 10%;
+    }
+
+    100% {
+        top: 95%;
+    }
+}
+
+@keyframes ConfettiAnimation3 {
+    0%{
+		top: 95%;
+		transform: rotate3d(0,0,0, 0deg);
+	}
+
+    30% {
+        top: 15%;
+    }
+
+    100% {
+        top: 95%;
+    }
 }
 
 .style0	{ transform: rotate3d(1,1,1, 650deg); background: #e74c3c; }
