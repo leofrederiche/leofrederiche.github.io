@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leonardo C. Frederiche</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/iphone.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav>
+      <a href="#home" class="nav-logo">Leo</a>
+      <button class="mobile-menu-btn" aria-label="Menu">
+        <i class="material-icons">menu</i>
+      </button>
+      <ul class="nav-links">
+        <li><a href="#home" data-i18n="nav.home">Início</a></li>
+        <li><a href="#about" data-i18n="nav.about">Sobre</a></li>
+        <li><a href="#projects" data-i18n="nav.projects">Projetos</a></li>
+        <li><a href="#skills" data-i18n="nav.skills">Habilidades</a></li>
+        <li><a href="#contact" data-i18n="nav.contact">Contato</a></li>
+      </ul>
+      <div class="nav-actions">
+        <button class="btn-icon" id="theme-toggle" aria-label="Toggle dark mode">
+          <i class="material-icons" id="theme-icon">dark_mode</i>
+        </button>
+        <button class="btn-lang" id="lang-toggle">EN</button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Decorative blobs -->
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+
+  <!-- Hero -->
+  <section class="section hero" id="home">
+    <div class="hero-content">
+      <p class="hero-greeting" data-i18n="hero.greeting">Olá! Eu sou</p>
+      <h1 class="hero-name">Leonardo C. Frederiche</h1>
+      <p class="hero-subtitle">
+        <span data-i18n="hero.subtitle">Um desenvolvedor que programa com</span>
+        <span class="strikethrough">IA</span>
+        <span data-i18n="hero.subtitle2">determinação.</span>
+      </p>
+    </div>
+    <a href="#about" class="scroll-indicator">
+      <i class="material-icons">keyboard_arrow_down</i>
+    </a>
+  </section>
+
+  <!-- About -->
+  <section class="section" id="about">
+    <div class="section-container">
+      <h2 data-i18n="about.title">Sobre mim</h2>
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-dot">
+            <i class="material-icons">sports_esports</i>
+          </div>
+          <div class="timeline-content">
+            <span class="timeline-label" data-i18n="about.label1">O Começo</span>
+            <p data-i18n="about.p1">Aos 12 anos tive curiosidade em saber como os personagens dos jogos se movimentavam, e essa curiosidade me levou à programação Web. Sedento pela curiosidade de saber mais, encontrei uma <a href="https://designa.com.br" target="_blank">startup</a> que me ensinou conceitos como: Framework, Scrum, Ágil, MVC e Ruby on Rails.</p>
+          </div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-dot">
+            <i class="material-icons">school</i>
+          </div>
+          <div class="timeline-content">
+            <span class="timeline-label" data-i18n="about.label2">Formação & Carreira</span>
+            <p data-i18n="about.p2">Formado em Análise e Desenvolvimento de Sistemas pela Unopar em 2019, ao longo da minha carreira profissional me deparei com diversas tecnologias como: Delphi, Python e Powerbuilder. Mas meu coração sempre esteve definitivamente voltado para Web, onde tive oportunidade de ver muitas coisas que surgiram: RoR, AdonisJS, React, Angular, TypeScript, Node...</p>
+          </div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-dot">
+            <i class="material-icons">rocket_launch</i>
+          </div>
+          <div class="timeline-content">
+            <span class="timeline-label" data-i18n="about.label3">Hoje</span>
+            <p data-i18n="about.p3">A paixão pela tecnologia ainda se mantém, porém com novos desafios. O foco tem sido em Arquitetura de Software, Inteligência Artificial, Code Review e Testes Automatizados.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="section" id="projects">
+    <div class="section-container">
+      <h2 data-i18n="projects.title">Alguns Projetos</h2>
+      <div class="projects-grid">
+        <a href="https://tableless.com.br/carrossel-descomplicado-com-html-css/" target="_blank" class="project-card">
+          <div class="project-year">2016</div>
+          <h3 data-i18n="projects.carousel.title">Artigo sobre Carrossel com HTML + CSS</h3>
+          <p data-i18n="projects.carousel.desc">Artigo publicado no Tableless com resultado final no <span class="code-link">CodePen</span>.</p>
+          <div class="project-tags">
+            <span class="project-tag">HTML</span>
+            <span class="project-tag">CSS</span>
+            <span class="project-tag">Artigo</span>
+          </div>
+        </a>
+        <a href="https://codepen.io/lleonardoll/pen/edvEBy" target="_blank" class="project-card">
+          <div class="project-year">2019</div>
+          <h3 data-i18n="projects.iphone.title">iPhone 3D (HTML + CSS + JS)</h3>
+          <p data-i18n="projects.iphone.desc">Um iPhone em 3D feito exclusivamente com HTML, CSS e JS.</p>
+          <div class="project-tags">
+            <span class="project-tag">HTML</span>
+            <span class="project-tag">CSS</span>
+            <span class="project-tag">JS</span>
+          </div>
+        </a>
+        <a href="https://lema-cache.vercel.app/" target="_blank" class="project-card">
+          <div class="project-year">2026</div>
+          <h3 data-i18n="projects.cache.title">APP de Finanças Pessoal (WHIP)</h3>
+          <p data-i18n="projects.cache.desc">Projeto desenvolvido em Flutter e Supabase para gerenciamento de finanças pessoais.</p>
+          <div class="project-tags">
+            <span class="project-tag">Flutter</span>
+            <span class="project-tag">Supabase</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section class="section" id="skills">
+    <div class="section-container">
+      <h2 data-i18n="skills.title">Habilidades</h2>
+      <div class="skills-columns">
+        <div class="skills-col">
+          <h3 data-i18n="skills.tech">Técnicas</h3>
+          <div class="skill-item">
+            <span class="skill-name">Angular</span>
+            <div class="skill-bar"><div class="skill-fill" style="width: 90%"></div></div>
+          </div>
+          <div class="skill-item">
+            <span class="skill-name">JavaScript / TypeScript</span>
+            <div class="skill-bar"><div class="skill-fill" style="width: 100%"></div></div>
+          </div>
+          <div class="skill-item">
+            <span class="skill-name">PostgreSQL</span>
+            <div class="skill-bar"><div class="skill-fill" style="width: 80%"></div></div>
+          </div>
+          <div class="skill-item">
+            <span class="skill-name">React</span>
+            <div class="skill-bar"><div class="skill-fill" style="width: 70%"></div></div>
+          </div>
+          <div class="skill-item">
+            <span class="skill-name">Flutter</span>
+            <div class="skill-bar"><div class="skill-fill" style="width: 50%"></div></div>
+          </div>
+        </div>
+        <div class="skills-col">
+          <h3 data-i18n="skills.lang">Idiomas</h3>
+          <div class="skill-item">
+            <span class="skill-name" data-i18n="skills.pt">Português BR</span>
+            <span class="skill-label" data-i18n="skills.native">Nativo</span>
+          </div>
+          <div class="skill-item">
+            <span class="skill-name" data-i18n="skills.en">Inglês</span>
+            <span class="skill-label" data-i18n="skills.en_level">Comunicação - Vou cometer alguns erros, mas você vai conseguir me entender.</span>
+          </div>
+          <h3 data-i18n="skills.soft" style="margin-top: 2rem;">Soft Skills</h3>
+          <div class="soft-skills">
+            <span class="soft-tag" data-i18n="skills.chill">Tranquilo - Chill Guy</span>
+            <span class="soft-tag" data-i18n="skills.curiosity">Curiosidade</span>
+            <span class="soft-tag" data-i18n="skills.teamwork">Bom relacionamento / Trabalho em Equipe</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="section" id="contact">
+    <div class="section-container">
+      <h2 data-i18n="contact.title">Contato</h2>
+      <div class="contact-grid">
+        <a href="mailto:leofrederiche@gmail.com" class="contact-card">
+          <i class="material-icons">mail_outline</i>
+          <span>leofrederiche@gmail.com</span>
+        </a>
+        <a href="https://www.linkedin.com/in/leonardo-frederiche-6ab778b9/" target="_blank" class="contact-card">
+          <i class="material-icons">work_outline</i>
+          <span>LinkedIn</span>
+        </a>
+        <a href="https://github.com/leofrederiche" target="_blank" class="contact-card">
+          <i class="material-icons">code</i>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Leonardo C. Frederiche &copy; 2026</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
